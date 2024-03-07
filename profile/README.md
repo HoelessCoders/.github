@@ -6,4 +6,5 @@
 
 <h1>Achievement list</h1>
 
-- 
+- [ ]
+- [ ] Getting an Hoe
